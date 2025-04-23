@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/xlab/dingxiang_hw1-main/build",
+  "command": "D:\\devc++\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=c11 -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c D:\\xlab\\dingxiang_hw1-main\\src\\algebra.c",
+  "file": "D:/xlab/dingxiang_hw1-main/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "D:/xlab/dingxiang_hw1-main/build",
+  "command": "D:\\devc++\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -std=c11 -o CMakeFiles\\main.dir\\src\\main.c.obj -c D:\\xlab\\dingxiang_hw1-main\\src\\main.c",
+  "file": "D:/xlab/dingxiang_hw1-main/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
